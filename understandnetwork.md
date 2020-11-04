@@ -94,7 +94,7 @@ For example change the network setting for a new module named 'simulator'
 
 After this module is deployed, check the network 
 
-![](./images/host.jpg)
+![](./images/host.JPG)
 
 
 
